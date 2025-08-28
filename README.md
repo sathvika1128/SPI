@@ -9,7 +9,7 @@ Implementation of a Serial Peripheral Interface(SPI) using Verilog and testing v
 <strong>SPI MASTER CORE ARCHITECTURE & DESIGN BLOCKS OF SPI MASTER CORE ARCHITECTURE</strong>
 
 <p align="center">
-  <img src="">
+  <img src="https://github.com/sathvika1128/SPI/blob/main/architecture.png">
 </p>
 
 Features of SPI Master Core Include Full duplex synchronous serial data, Variable length of transfer word up to 128 bits, MSB or LSB first data transfer, Rx and Tx on both rising or falling edge of serial clock independently, Up to 32 slave select lines, Auto Slave Select, Interrupt Enable & Clock Divider.
